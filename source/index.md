@@ -11,6 +11,7 @@ meta:
       width: 327
       height: 327
       type: image/jpg
+use: [ 'posts' ]
 ---
 {% block body_classes 'page--about' %}
 
